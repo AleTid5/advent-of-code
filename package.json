@@ -1,0 +1,19 @@
+{
+  "name": "adevent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./scripts/run.sh"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.4.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
